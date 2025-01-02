@@ -1,0 +1,12 @@
+{
+  "name": "odin-node-basic-info-site",
+  "version": "1.0.0",
+  "description": "First introductory project from The Odin Project NodeJS course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JE Richards (https://github.com/JE-Richards)",
+  "license": "ISC"
+}
