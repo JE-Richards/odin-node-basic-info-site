@@ -10,5 +10,8 @@
   },
   "keywords": [],
   "author": "JE Richards (https://github.com/JE-Richards)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
